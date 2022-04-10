@@ -1,0 +1,57 @@
+body {
+	background-color: #2D4471;
+}
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.class1 {
+	background-color: #236863;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	border: solid 3px #003430;
+}
+
+.class2 {
+	background-color: #236863;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	width: 29%;
+	border: solid 3px #003430;
+	float: left;
+	height: 450px;
+}
+
+.class3 {
+	background-color: #236863;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	width: 29%;
+	border: solid 3px #003430;
+	height: 450px;
+	float: left;
+}
+
+.class4 {
+	background-color: #236863;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	width: 30%;
+	border: solid 3px #003430;
+	float: right;
+	height: 450px;
+}
+
+.class5 {
+	background-color: #236863;
+	color: white;
+	margin: 10px;
+	border: solid 3px #003430;
+	clear: both;
+}
